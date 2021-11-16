@@ -2,8 +2,8 @@
 
 ## [Demo](https://hotel-site-kmy.netlify.app/)
 
-<img src="https://raw.githubusercontent.com/kamilmuratyilmaz/My-Projects/master/Vue.js/hotel_site/hotel-site1.gif" alt="hotel-site1" width="600" />
-<img src="https://raw.githubusercontent.com/kamilmuratyilmaz/My-Projects/master/Vue.js/hotel_site/hotel-site2.gif" alt="hotel-site2" width="600" />
+<img src="https://raw.githubusercontent.com/kamilmuratyilmaz/hotel_site/master/hotel-site1.gif" alt="hotel-site1" width="600" />
+<img src="https://raw.githubusercontent.com/kamilmuratyilmaz/hotel_site/master/hotel-site2.gif" alt="hotel-site2" width="600" />
 
 ### Project Overwiev
 ---
